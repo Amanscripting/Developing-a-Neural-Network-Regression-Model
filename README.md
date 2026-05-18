@@ -98,12 +98,12 @@ Include screenshot of the generated data
 
 
 ### Training Loss Vs Iteration Plot
-Include your plot here
+
 <img width="897" height="694" alt="image" src="https://github.com/user-attachments/assets/77befb95-3a0f-418b-8fa8-337cabc9d833" />
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
 <img width="380" height="21" alt="image" src="https://github.com/user-attachments/assets/0c35b953-3ade-488a-bcaf-c7da7fcb6a9f" />
 
 
